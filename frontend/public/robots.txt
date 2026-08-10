@@ -1,0 +1,12 @@
+User-agent: *
+Allow: /
+Disallow: /dashboard
+Disallow: /admin
+Disallow: /attendance
+Disallow: /purchases
+Disallow: /earnings
+Disallow: /withdrawal
+Disallow: /profile
+Disallow: /auth/callback
+
+Sitemap: https://engineerhub.example.com/sitemap.xml
