@@ -10,6 +10,8 @@ Built as a production-oriented **MERN** application (MongoDB, Express, React, No
 
 [Features](#-features) · [Screenshots](#-screenshots) · [Tech Stack](#️-tech-stack) · [Getting Started](#-getting-started-local-development) · [Deployment](#-production-deployment) · [API](#-api-reference)
 
+🎥 **[Watch the Demo Video](https://youtu.be/4-doqHUU-6A)** · 💼 **[View the LinkedIn Post](https://www.linkedin.com/posts/mr-abizer-saify-a3b936278_webdevelopment-fullstackdeveloper-mern-ugcPost-7492660713274892288-wlPy/?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAEPFDU8B3KSZpyzAzxYtoZ-Nqhxr8csqNwQ)**
+
 </div>
 
 ---
